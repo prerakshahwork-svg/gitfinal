@@ -1,3 +1,3 @@
 def new_branch():
-    print("Git branch developera")
-    print("Git checkout developera")
+    print("Git branch developerb")
+    print("Git checkout developerb")
